@@ -22,13 +22,13 @@ repository               : "zongjuny/zongjuny.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Zongjun Yang"
+  #pronouns         : # example: "she/her"  
+  bio              : "PhD student"
+  location         : "New York City"
+  employer         : "Columbia University"
+  #uri              : # URL
+  email            : "zy2684@columbia.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
