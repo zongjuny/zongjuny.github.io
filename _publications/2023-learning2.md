@@ -1,6 +1,5 @@
 ---
 title: "Learning against Non-credible Auctions"
-author: "aaa"
 collection: publications
 category: preprints
 permalink: /publication/2023-learning2
