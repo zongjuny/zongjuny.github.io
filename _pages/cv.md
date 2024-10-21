@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This is a sample CV from academicpages.github.io
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
