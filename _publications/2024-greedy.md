@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-greedy
 excerpt: '*Superceded by "Online Fair Allocation with Best-of-Many-Worlds Guarantees"*'
 coauthor: Zongjun Yang*, Luofeng Liao, Christian Kroer
-date: 2024
+date: 2024-02-01
 venue: 'AAAI Conference on Artificial Intelligence'
 paperurl: 'https://arxiv.org/abs/2308.09277'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
