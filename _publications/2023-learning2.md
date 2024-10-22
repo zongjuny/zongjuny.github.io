@@ -2,6 +2,7 @@
 title: "Learning against Non-credible Auctions"
 collection: publications
 category: preprints
+coauthor: Qian Wang, Xuanzhi Xia, Zongjun Yang, Xiaotie Deng, Yuqing Kong, Zhilin Zhang, Liang Wang, Chuan Yu, Jian Xu, Bo Zheng
 permalink: /publication/2023-learning2
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-11-06
