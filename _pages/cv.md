@@ -13,11 +13,10 @@ This is a sample CV from academicpages.github.io
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Operations Research, Columbia University, 2024-2029(Expected)
+* B.S. in Computer Science, Peking University, 2020-2024
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,16 +31,7 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Supervisor: Professor Git -->
 
 Publications
 ======
@@ -49,18 +39,30 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+
+Teaching assistant, Randomized Algorithms, 2024 Spring @ Peking University
+
+Teaching assistant, Randomized Algorithms, 2023 Spring @ Peking University
+
+  <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+Skills
+======
+Languages: Mandarin Chinese (native), English (proficient), Japanese (beginner)
+
+Programming: C, Cpp, Python (CVXPY, Pytorch, ...), Matlab, assembly, bash, LaTeX, Git
