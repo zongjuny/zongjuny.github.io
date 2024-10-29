@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-This is a sample CV from academicpages.github.io
-
 Education
 ======
 * Ph.D in Operations Research, Columbia University, 2024-2029(Expected)
@@ -53,13 +51,12 @@ Teaching assistant, Randomized Algorithms, 2024 Spring @ Peking University
 
 Teaching assistant, Randomized Algorithms, 2023 Spring @ Peking University
 
-  <!-- <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
+Awards & Honors
 ======
-* Currently signed in to 43 different slack teams -->
+
+National Scholarship, Peking University, 2023
+
+National Scholarship, Peking University, 2021
 
 Skills
 ======
