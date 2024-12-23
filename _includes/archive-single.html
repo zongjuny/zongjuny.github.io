@@ -1,6 +1,5 @@
 {% include base_path %}
 
-{% if post.posttype == 'academic'}
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -76,4 +75,3 @@
 
   </article>
 </div>
-{% endif %}
