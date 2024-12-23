@@ -1,6 +1,7 @@
 ---
 title: "Altruism, Collectivism and Egalitarianism: On a Variety of Prosocial Behaviors in Binary Networked Public Goods Games"
 collection: publications
+posttype: academic
 category: conferences
 permalink: /publication/2023-altruism
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'

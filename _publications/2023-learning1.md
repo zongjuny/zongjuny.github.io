@@ -2,6 +2,7 @@
 title: "Learning to Bid in Repeated First-Price Auctions with Budgets"
 collection: publications
 category: conferences
+posttype: academic
 permalink: /publication/2023-learning1
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 coauthor: Qian Wang*, Zongjun Yang*, Xiaotie Deng, Yuqing Kong

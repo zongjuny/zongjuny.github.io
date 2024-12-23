@@ -2,6 +2,7 @@
 title: "Online Fair Allocation with Best-of-Many-Worlds Guarantees"
 collection: publications
 category: preprints
+posttype: academic
 coauthor: Zongjun Yang*, Luofeng Liao, Yuan Gao, Christian Kroer
 permalink: /publication/2024-online
 # excerpt: 'This paper is about fixing template issue #693.'

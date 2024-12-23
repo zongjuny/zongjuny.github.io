@@ -2,6 +2,7 @@
 title: "Greedy-Based Online Fair Allocation with Adversarial Input: Enabling Best-of-Many-Worlds Guarantees"
 collection: publications
 category: conferences
+posttype: academic
 permalink: /publication/2024-greedy
 excerpt: '*Superceded by "Online Fair Allocation with Best-of-Many-Worlds Guarantees"*'
 coauthor: Zongjun Yang*, Luofeng Liao, Christian Kroer
