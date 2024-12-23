@@ -1,12 +1,13 @@
 ---
 title: "Online Fair Allocation with Best-of-Many-Worlds Guarantees"
 collection: publications
-category: preprints
+category: manuscripts
 posttype: academic
 coauthor: Zongjun Yang*, Luofeng Liao, Yuan Gao, Christian Kroer
 permalink: /publication/2024-online
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-08-05
+venue: 'Major Revision at Management Science'
 # venue: ''
 paperurl: 'https://arxiv.org/abs/2408.02403'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
