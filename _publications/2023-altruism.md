@@ -5,7 +5,7 @@ posttype: academic
 category: conferences
 permalink: /publication/2023-altruism
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-coauthor: Jichen Li*, Xiaotie Deng, Yukun Cheng, Yuqi Pan, Xuanzhi Xia, Zongjun Yang, Jan Xie
+coauthor: Joint work with Jichen Li, Xiaotie Deng, Yukun Cheng, Yuqi Pan, Xuanzhi Xia, and Jan Xie
 date: 2023-01-01
 venue: ' International Conference on Autonomous Agents and Multiagent Systems (AAMAS)'
 paperurl: 'https://dl.acm.org/doi/10.5555/3545946.3598691'

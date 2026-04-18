@@ -5,7 +5,7 @@ category: conferences
 posttype: academic
 permalink: /publication/2023-learning1
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-coauthor: Qian Wang*, Zongjun Yang*, Xiaotie Deng, Yuqing Kong
+coauthor: Joint work with Qian Wang, Xiaotie Deng, and Yuqing Kong
 date: 2023-01-01
 venue: 'International Conference on Machine Learning (ICML)'
 slidesurl: 'https://icml.cc/virtual/2023/poster/24350'
