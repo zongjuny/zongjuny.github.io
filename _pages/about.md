@@ -9,14 +9,22 @@ redirect_from:
 
 Hello! My name is Zongjun Yang (Chinese: 杨宗骏). I am a 2nd year PhD student at Industrial Engineering & Operations Research ([IEOR](https://ieor.columbia.edu/)), Columbia University. 
 
-My primary interest is algorithmic game theory, with a focus on ad auctions, market equilibria, fair allocation and online learning. I am working with Prof. [Christian Kroer](http://www.columbia.edu/~ck2945/). Prior to joining Columbia, I received my bachelor's degree in computer science at Peking University, where I worked with Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) and Prof. [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) on ad auctions and social decisions. 
+My primary interest is algorithmic game theory, with a focus on ad auctions, market equilibria, fair allocation and online learning. I am very fortunate to be advised by Prof. [Christian Kroer](http://www.columbia.edu/~ck2945/). Prior to joining Columbia, I received my bachelor's degree in computer science at Peking University, where I worked with Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) and Prof. [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) on ad auctions and algorithmic game theory. 
 
-Research Papers
----
+## News
 
-A list of publications can be found [here](https://zongjuny.github.io/publications/), or at [Google Scholar](https://scholar.google.com/citations?user=ihgf9rsAAAAJ&hl).  
+- **2026.05**  Our work "Online Generalized-Mean Welfare Maximization: Achieving Near-Optimal Regret from Samples" is accepted at **EC 2026**!
+- **2026.05**  Our work "Competitive Equilibrium in Labor Economies through the Lens of Goods and Chores Fisher Markets" is accepted at **EC 2026**! 
+- **2026.01**  Happy to work as the teaching assistant for IEOR4010: AI in Operations Research & Financial Engineering in the Spring 2026 semester!
+- **2025.10**  I'll be presenting two working papers on online fair allocaiton at INFORMS 2026 at Atlanta!
+- **2025.01**  Our work "Learning against Non-Credible Second-Price Auctions" is accepted at **The Web Conference (WWW) 2025**!
+- **2024.12**  Our work "Online Fair Allocation with Best-of-Many-Worlds Guarantees" is under major revision at Management Science!
 
----
+## Research Papers
+
+A list of publications can be found [here](https://zongjuny.github.io/publications/), or at [Google Scholar](https://scholar.google.com/citations?user=ihgf9rsAAAAJ&hl).
+
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free    service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
