@@ -1,3 +1,0 @@
-$ git add .
-$ git commit -m "yymmddcx"
-$ git push origin master

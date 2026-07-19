@@ -4,14 +4,11 @@ collection: publications
 category: conferences
 posttype: academic
 permalink: /publication/2023-learning1
-# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 coauthor: Joint work with Qian Wang, Xiaotie Deng, and Yuqing Kong
 date: 2023-01-01
 venue: 'International Conference on Machine Learning'
 venue_abbreviation: "ICML'23"
-slidesurl: 'https://icml.cc/virtual/2023/poster/24350'
 paperurl: 'https://arxiv.org/abs/2304.13477'
-# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
 Budget management strategies in repeated auctions have received growing attention in online advertising markets. However, previous work on budget management in online bidding mainly focused on second-price auctions. The rapid shift from second-price auctions to first-price auctions for online ads in recent years has motivated the challenging question of how to bid in repeated first-price auctions while controlling budgets.
