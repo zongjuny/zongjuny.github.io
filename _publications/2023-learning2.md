@@ -7,7 +7,8 @@ coauthor: Joint work with Qian Wang, Xuanzhi Xia, Xiaotie Deng, Yuqing Kong, Zhi
 permalink: /publication/2023-learning2
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-01-21
-venue: 'The Web Conference (WWW)'
+venue: 'The ACM Web Conference'
+venue_abbreviation: "WWW'25"
 paperurl: 'https://arxiv.org/abs/2311.15203'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---

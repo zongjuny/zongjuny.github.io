@@ -5,8 +5,7 @@ category: manuscripts
 posttype: academic
 coauthor: Joint work with Luofeng Liao, Yuan Gao, and Christian Kroer
 permalink: /publication/2024-online
-# excerpt: 'This paper is about fixing template issue #693.'
-date: 2026-08-05
+date: 2024-08-05
 venue: 'Major Revision at Management Science'
 # venue: ''
 paperurl: 'https://arxiv.org/abs/2408.02403'

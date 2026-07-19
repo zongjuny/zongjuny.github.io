@@ -6,7 +6,9 @@ posttype: academic
 coauthor: Joint work with Bhaskar Ray Chaudhury, Christian Kroer, Ruta Mehta, and Tianlong Nan 
 permalink: /publication/2026-competitive
 date: 2026-05-18
-venue: 'ACM Conference on Economics and Computation (EC)'
+venue: 'ACM Conference on Economics and Computation'
+venue_abbreviation: "EC'26"
+paperurl: 'https://arxiv.org/abs/2606.15060'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 The Fisher market with goods has been studied extensively in the algorithmic game theory literature, yielding strong algorithmic results for computing competitive equilibria. In contrast, more recent work on Fisher markets with bads or chores has shown that the equilibrium set can be nonconvex, making equilibrium computation considerably more challenging.

@@ -39,3 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Keep hyperlink color consistent across navigation, content, and footer links. */
+a,
+a:visited,
+a:hover,
+a:active {
+  color: $link-color;
+}

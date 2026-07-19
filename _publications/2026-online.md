@@ -6,7 +6,8 @@ posttype: academic
 coauthor: Joint work with Rachitesh Kumar and Christian Kroer
 permalink: /publication/2026-online
 date: 2026-02-10
-venue: 'ACM Conference on Economics and Computation (EC)'
+venue: 'ACM Conference on Economics and Computation'
+venue_abbreviation: "EC'26"
 paperurl: 'https://arxiv.org/abs/2602.10469'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
