@@ -36,3 +36,32 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+/* Wide literature-review tables remain legible and scroll on narrow screens. */
+.reading-table {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+
+  table {
+    min-width: 1050px;
+    font-size: 0.72em;
+    line-height: 1.35;
+  }
+
+  th,
+  td {
+    padding: 0.7em;
+    vertical-align: top;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: mix(#fff, $lighter-gray, 50%);
+  }
+
+  th:nth-child(1) { width: 22%; }
+  th:nth-child(2) { width: 18%; }
+  th:nth-child(3) { width: 16%; }
+  th:nth-child(4) { width: 13%; }
+  th:nth-child(5) { width: 31%; }
+}
