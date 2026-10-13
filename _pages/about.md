@@ -18,7 +18,7 @@ My primary interest is algorithmic game theory, with a focus on ad auctions, mar
 - **2026.05** Our work "Online Generalized-Mean Welfare Maximization: Achieving Near-Optimal Regret from Samples" is accepted at **EC 2026**!
 - **2026.05** Our work "Competitive Equilibrium in Labor Economies through the Lens of Goods and Chores Fisher Markets" is accepted at **EC 2026**!
 - **2026.01** Happy to work as the teaching assistant for IEOR4010: AI in Operations Research & Financial Engineering in the Spring 2026 semester!
-- **2025.10** I'll be presenting two working papers on online fair allocation at INFORMS 2026 in Atlanta!
+- **2025.10** I'll be presenting two working papers on online fair allocation at INFORMS 2025 in Atlanta!
 - **2025.01** Our work "Learning against Non-Credible Second-Price Auctions" is accepted at **The Web Conference (WWW) 2025**!
 - **2024.12** Our work "Online Fair Allocation with Best-of-Many-Worlds Guarantees" is under major revision at Management Science!
 
