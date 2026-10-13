@@ -1,0 +1,9 @@
+{
+  // Open the local preview in VS Code's integrated browser, beside the editor
+  "workbench.browser.openLocalhostLinks": true,
+  "workbench.browser.newTabPlacement": "sideGroup",
+
+  // Keep generated output and installed gems out of search and file watching
+  "search.exclude": { "_site": true, ".bundle/gems": true },
+  "files.watcherExclude": { "**/_site/**": true, "**/.bundle/gems/**": true }
+}

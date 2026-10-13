@@ -7,3 +7,7 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+
+# Local preview on Windows: timezone data and native file watching
+gem 'tzinfo-data', platforms: [:windows, :jruby]
+gem 'wdm', '>= 0.1.0', platforms: [:windows]

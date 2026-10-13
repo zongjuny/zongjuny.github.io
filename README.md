@@ -30,8 +30,13 @@ When you are initially working your website, it is very useful to be able to pre
     brew install node
     gem install bundler
     ```
+    On Windows the command is (Ruby 3.3 with the MSYS2 build tools; restart VS Code/terminals afterwards so `ruby` is on PATH):
+    ```powershell
+    winget install RubyInstallerTeam.RubyWithDevKit.3.3
+    ```
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. In VS Code, `Ctrl+Shift+B` runs the **Preview site** task, which does the same; Ctrl+click the server address in the terminal to open the preview in a side tab.
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
