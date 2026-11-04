@@ -6,7 +6,7 @@ posttype: academic
 coauthor: Joint work with Luofeng Liao, Yuan Gao, and Christian Kroer
 permalink: /publication/2024-online
 date: 2024-08-05
-venue: 'Major Revision at Management Science'
+venue: 'Minor Revision at Management Science'
 paperurl: 'https://arxiv.org/abs/2408.02403'
 ---
 
