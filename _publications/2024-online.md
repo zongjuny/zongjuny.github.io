@@ -3,7 +3,7 @@ title: "Online Fair Allocation with Best-of-Many-Worlds Guarantees"
 collection: publications
 category: manuscripts
 posttype: academic
-coauthor: Joint work with Luofeng Liao, Yuan Gao, and Christian Kroer
+authors: Zongjun Yang, Luofeng Liao, Yuan Gao, Christian Kroer
 permalink: /publication/2024-online
 date: 2024-08-05
 venue: 'Minor Revision at Management Science'

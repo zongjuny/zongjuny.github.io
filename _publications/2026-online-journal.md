@@ -3,7 +3,7 @@ title: "Online Generalized-Mean Welfare Maximization: Achieving Near-Optimal Reg
 collection: publications
 category: manuscripts
 posttype: academic
-coauthor: Joint work with Rachitesh Kumar and Christian Kroer
+authors: Zongjun Yang, Rachitesh Kumar, Christian Kroer
 permalink: /publication/2026-online-journal
 date: 2026-02-10
 venue: 'Submitted to Operations Research'

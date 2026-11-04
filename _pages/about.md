@@ -13,6 +13,7 @@ My primary interest is algorithmic game theory, with a focus on ad auctions, mar
 
 ## News
 
+- **2026.11** Our work "Online Fair Allocation with Best-of-Many-Worlds Guarantees" is now under minor revision at Management Science!
 - **2026.09** I'll be working as the teaching assistant for IEOR4010: AI in Operations Research & Financial Engineering again in the Fall 2026 semester!
 - **2026.06** I'll be working as a Student Researcher at [Google NYC Algorithms and Optimization](https://research.google.com/teams/nycalg/) during Summer 2026, hosted by [Yifeng Teng](https://pages.cs.wisc.edu/~yifengt/).
 - **2026.05** Our work "Online Generalized-Mean Welfare Maximization: Achieving Near-Optimal Regret from Samples" is accepted at **EC 2026**!

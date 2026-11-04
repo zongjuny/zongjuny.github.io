@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 posttype: academic
 permalink: /publication/2023-learning1
-coauthor: Joint work with Qian Wang, Xiaotie Deng, and Yuqing Kong
+authors: Qian Wang, Zongjun Yang, Xiaotie Deng, Yuqing Kong
 date: 2023-01-01
 venue: 'International Conference on Machine Learning'
 venue_abbreviation: "ICML'23"

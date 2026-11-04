@@ -3,7 +3,7 @@ title: "Impossibility of No-Regret in Multi-Agent Bidding"
 collection: publications
 category: preprints
 posttype: academic
-coauthor: Joint work with Rachitesh Kumar and Christian Kroer
+authors: Zongjun Yang, Rachitesh Kumar, Christian Kroer
 permalink: /publication/2026-impossibility
 date: 2026-10-27
 venue: 'arXiv preprint'

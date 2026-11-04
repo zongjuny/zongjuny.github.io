@@ -4,7 +4,7 @@ collection: publications
 posttype: academic
 category: conferences
 permalink: /publication/2023-altruism
-coauthor: Joint work with Jichen Li, Xiaotie Deng, Yukun Cheng, Yuqi Pan, Xuanzhi Xia, and Jan Xie
+authors: Jichen Li, Xiaotie Deng, Yukun Cheng, Yuqi Pan, Xuanzhi Xia, Zongjun Yang, Jan Xie
 date: 2023-01-01
 venue: 'International Conference on Autonomous Agents and Multiagent Systems'
 venue_abbreviation: "AAMAS'23"

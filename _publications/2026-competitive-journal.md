@@ -3,7 +3,7 @@ title: "Competitive Equilibrium in Labor Economies through the Lens of Goods and
 collection: publications
 category: manuscripts
 posttype: academic
-coauthor: Joint work with Bhaskar Ray Chaudhury, Christian Kroer, Ruta Mehta, and Tianlong Nan 
+authors: Bhaskar Ray Chaudhury, Christian Kroer, Ruta Mehta, Tianlong Nan, Zongjun Yang
 permalink: /publication/2026-competitive-journal
 date: 2026-05-18
 venue: 'Submitted to Mathematics of Operations Research'
